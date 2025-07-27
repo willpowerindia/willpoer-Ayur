@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922790791568",
+    "project_id": "ayur-shop-a98f4",
+    "storage_bucket": "ayur-shop-a98f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922790791568:android:04cd8f0312ddf146cb4b15",
+        "android_client_info": {
+          "package_name": "com.willpower.Nalam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922790791568-q1q3cl2fueq752bvdbp1n7r0oi3qd1nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8rrQcKWit05pgbL9Pl49L2RGgxFPgImc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922790791568-q1q3cl2fueq752bvdbp1n7r0oi3qd1nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
